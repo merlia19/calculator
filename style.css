@@ -1,0 +1,21 @@
+body{
+    background-color: pink !important;
+}
+#cal{
+    margin-left:42.5%;
+    margin-right:42.5%;
+    margin-top:2%;
+    width:15%;
+    height:350px;
+    background-color: black;
+    border-width:2px !important;
+    border-color:black !important;
+    border-style:solid;
+
+}
+
+.calculator{
+    width:98%;
+ 
+
+}
